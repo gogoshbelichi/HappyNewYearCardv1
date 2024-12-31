@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HappyNewYearCardv1.props" />
+</Project>

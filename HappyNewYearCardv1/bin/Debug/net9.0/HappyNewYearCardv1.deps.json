@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HappyNewYearCardv1/1.0.0": {
+        "runtime": {
+          "HappyNewYearCardv1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HappyNewYearCardv1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
